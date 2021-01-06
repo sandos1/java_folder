@@ -25,7 +25,7 @@ public class BatchUpdate_JDBC {
         ResultSet myRs = null;
         String myUrl="jdbc:mysql://localhost:3306/student";
         String user = "root";
-        String pwd="D@o09712130";
+        String pwd="root";
         try{
             // get connection to the database
         	try {
